@@ -145,7 +145,7 @@ def calcular_respuestas_matematicas(clave):
         respuestas['pregunta3'] = redondear_a_2_decimales(1.00)  # Ejemplo
         respuestas['pregunta4'] = redondear_a_2_decimales(-5.00)   # Ejemplo
         respuestas['pregunta5'] = redondear_a_2_decimales(3.50)  # Ejemplo
-        elif clave == 12:
+    elif clave == 12:
         respuestas['pregunta1'] = redondear_a_2_decimales(19.00)  # Ejemplo
         respuestas['pregunta2'] = redondear_a_2_decimales(1.58)   # Ejemplo
         respuestas['pregunta3'] = redondear_a_2_decimales(1.00)   # Ejemplo
